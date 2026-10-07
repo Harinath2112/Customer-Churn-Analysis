@@ -1,6 +1,3 @@
-Here is the complete `README.md` code formatted in a raw Markdown block so you can copy and paste it directly into your GitHub repository:
-
-```markdown
 # Customer Churn Analysis
 
 > An end-to-end data analytics and machine learning pipeline designed to analyze customer retention patterns and predict churn probability.
@@ -50,7 +47,6 @@ Here is the complete `README.md` code formatted in a raw Markdown block so you c
 │ Strategic Business │ <-- │ Model Evaluation      │ <-- │ Machine Learning       │
 │ Insights           │     │ (Metrics & ROC-AUC)   │     │ (Training & Tuning)    │
 └────────────────────┘     └───────────────────────┘     └────────────────────────┘
-
 ```
 
 ---
@@ -58,68 +54,50 @@ Here is the complete `README.md` code formatted in a raw Markdown block so you c
 ## 🚀 Setup & Installation Steps
 
 ### Prerequisites
-
 Ensure you have **Python 3.8+** and **Git** installed on your machine.
 
 ### 1. Clone the Repository
-
 ```bash
 git clone [https://github.com/Harinath2112/Customer-Churn-Analysis.git](https://github.com/Harinath2112/Customer-Churn-Analysis.git)
 cd Customer-Churn-Analysis
-
 ```
 
 ### 2. Create and Activate a Virtual Environment
-
-* **On macOS/Linux:**
-```bash
-python3 -m venv venv
-source venv/bin/activate
-
-```
-
-
-* **On Windows:**
-```bash
-python -m venv venv
-venv\Scripts\activate
-
-```
-
-
+- **On macOS/Linux:**
+  ```bash
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+- **On Windows:**
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  ```
 
 ### 3. Install Dependencies
-
 ```bash
 pip install -r requirements.txt
-
 ```
 
 ### 4. Run the Project
-
 Launch Jupyter Notebook to execute the analysis and models:
-
 ```bash
 jupyter notebook
-
 ```
 
 ---
 
 ## 🔑 Demo Credentials
 
-* **Application Access:** Not Applicable (Public Open-Source / Local Execution)
-* **Database / API Keys:** No active authentication required. All operations run on local datasets.
+- **Application Access:** Not Applicable (Public Open-Source / Local Execution)
+- **Database / API Keys:** No active authentication required. All operations run on local datasets.
 
 ---
 
 ## 💡 What I'd Improve
 
-* [ ] **Interactive Web Application:** Deploy a Streamlit or Gradio dashboard for real-time churn prediction on new customer inputs.
-* [ ] **MLOps Integration:** Use MLflow or Weights & Biases for automated tracking of model experiments and hyperparameters.
-* [ ] **Advanced Deep Learning:** Test Deep Neural Networks (DNNs) to capture non-linear relationships in higher-dimensional data.
-* [ ] **Real-Time Data Streams:** Build API endpoints (using FastAPI) to process continuous streaming telemetry data.
-
-```
-
-```
+- [ ] **Interactive Web Application:** Deploy a Streamlit or Gradio dashboard for real-time churn prediction on new customer inputs.
+- [ ] **MLOps Integration:** Use MLflow or Weights & Biases for automated tracking of model experiments and hyperparameters.
+- [ ] **Advanced Deep Learning:** Test Deep Neural Networks (DNNs) to capture non-linear relationships in higher-dimensional data.
+- [ ] **Real-Time Data Streams:** Build API endpoints (using FastAPI) to process continuous streaming telemetry data.
+``░
