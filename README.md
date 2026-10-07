@@ -8,7 +8,7 @@
 
 | Executive Summary Dashboard | Model Performance & Insights |
 | :---: | :---: |
-| ![Dashboard Overview](https://raw.githubusercontent.com/Harinath2112/Customer-Churn-Analysis/main/assets/dashboard.png) | ![Churn Analysis](https://raw.githubusercontent.com/Harinath2112/Customer-Churn-Analysis/main/assets/model_insights.png) |
+| ![Dashboard Overview](dashboard.png) | ![Churn Analysis](steps.png) |
 
 *(Note: Replace the image paths above with the actual relative paths or URLs of your screenshots once uploaded to your repository.)*
 
