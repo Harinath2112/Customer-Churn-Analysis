@@ -8,7 +8,7 @@
 
 | Executive Summary Dashboard | Model Performance & Insights |
 | :---: | :---: |
-| ![Dashboard Overview](dashboard.png) | ![Churn Analysis](steps.png) |
+| ![Dashboard Overview](Dashboard.png) | ![Churn Analysis](steps.png) |
 
 *(Note: Replace the image paths above with the actual relative paths or URLs of your screenshots once uploaded to your repository.)*
 
